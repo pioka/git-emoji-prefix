@@ -6,66 +6,50 @@
 # Commit body...
 
 # ==== Emojis ====
-# 🎨 :art:----------------------Improving structure / format of the code.
-# ⚡️ :zap:----------------------Improving performance.
-# 🔥 :fire:---------------------Removing code or files.
-# 🐛 :bug:----------------------Fixing a bug.
-# 🚑 :ambulance:----------------Critical hotfix.
-# ✨ :sparkles:-----------------Introducing new features.
-# 📝 :memo:---------------------Writing docs.
-# 🚀 :rocket:-------------------Deploying stuff.
-# 💄 :lipstick:-----------------Updating the UI and style files.
+# > General
 # 🎉 :tada:---------------------Initial commit.
-# ✅ :white_check_mark:---------Adding tests.
-# 🔒 :lock:---------------------Fixing security issues.
-# 🍎 :apple:--------------------Fixing something on macOS.
-# 🐧 :penguin:------------------Fixing something on Linux.
-# 🏁 :checkered_flag:-----------Fixing something on Windows.
-# 🤖 :robot:--------------------Fixing something on Android.
-# 🍏 :green_apple:--------------Fixing something on iOS.
-# 🔖 :bookmark:-----------------Releasing / Version tags.
-# 🚨 :rotating_light:-----------Removing linter warnings.
-# 🚧 :construction:-------------Work in progress.
-# 💚 :green_heart:--------------Fixing CI Build.
-# ⬇️ :arrow_down:----------------Downgrading dependencies.
-# ⬆️ :arrow_up:------------------Upgrading dependencies.
-# 📌 :pushpin:------------------Pinning dependencies to specific versions.
-# 👷 :construction_worker:------Adding CI build system.
-# 📈 :chart_with_upwards_trend:-Adding analytics or tracking code.
-# ♻️ :recycle:-------------------Refactoring code.
-# 🐳 :whale:--------------------Work about Docker.
-# ➕ :heavy_plus_sign:----------Adding a dependency.
-# ➖ :heavy_minus_sign:---------Removing a dependency.
-# 🔧 :wrench:-------------------Changing configuration files.
-# 🌐 :globe_with_meridians:-----Internationalization and localization.
+# ✨ :sparkles:-----------------新機能.
+# 💄 :lipstick:-----------------UI/スタイル変更.
+# 💡 :bulb:---------------------コメント追加/変更.
+# 📝 :memo:---------------------ドキュメント追加/変更.
+# 🎨 :art:----------------------コード整形.
 # ✏️ :pencil2:-------------------Fixing typos.
-# 💩 :hankey:-------------------Writing bad code that needs to be improved.
+# 🔥 :fire:---------------------ファイル削除.
+# 🚚 :truck:--------------------ファイル名変更/移動.
+# 🐛 :bug:----------------------バグ修正.
+# 🚑 :ambulance:----------------Critical hotfix.
+# 🔀 :twisted_rightwards_arrows:ブランチマージ.
 # ⏪ :rewind:-------------------Reverting changes.
-# 🔀 :twisted_rightwards_arrows:Merging branches.
-# 📦 :package:------------------Updating compiled files or packages.
-# 👽 :alien:--------------------Updating code due to external API changes.
-# 🚚 :truck:--------------------Moving or renaming files.
-# 📄 :page_facing_up:-----------Adding or updating license.
-# 💥 :boom:---------------------Introducing breaking changes.
-# 🍱 :bento:--------------------Adding or updating assets.
-# 👌 :ok_hand:------------------Updating code due to code review changes.
-# ♿️ :wheelchair:---------------Improving accessibility.
-# 💡 :bulb:---------------------Documenting source code.
-# 🍻 :beers:--------------------Writing code drunkenly.
-# 💬 :speech_balloon:-----------Updating text and literals.
-# 🗃 :card_file_box:------------Performing database related changes.
-# 🔊 :loud_sound:---------------Adding logs.
-# 🔇 :mute:---------------------Removing logs.
 # 👥 :busts_in_silhouette:------Adding contributor(s).
-# 🚸 :children_crossing:--------Improving user experience / usability.
-# 🏗 :building_construction:----Making architectural changes.
-# 📱 :iphone:-------------------Working on responsive design.
-# 🤡 :clown_face:---------------Mocking things.
-# 🥚 :egg:----------------------Adding an easter egg.
-# 🙈 :see_no_evil:--------------Adding or updating a-.gitignore file
-# 📸 :camera_flash:-------------Adding or updating snapshots
-# ⚗ :alembic:-------------------Experimenting new things
-# 🔍 :mag:----------------------Improving SEO
+# 👌 :ok_hand:------------------コードレビューによる変更.
+# > Additional
+# ♻️ :recycle:-------------------リファクタリング.
+# ⚡️ :zap:----------------------パフォーマンス改善.
+# 🍱 :bento:--------------------アセットの追加/変更.
+# 🔧 :wrench:-------------------設定ファイル追加/変更.
+# 🙈 :see_no_evil:--------------.gitignore追加/変更
+# 🔒 :lock:---------------------セキュリティ問題修正.
+# 💥 :boom:---------------------非互換な変更.
+# ⚗ :alembic:-------------------実験的な追加
+# 📄 :page_facing_up:-----------ライセンス追加/変更.
+# 🌐 :globe_with_meridians:-----国際化/地域化.
+# > DB
+# 🗃 :card_file_box:------------DBテーブル変更.
+# 📸 :camera_flash:-------------スナップショット追加
+# > Release
+# 🔖 :bookmark:-----------------リリース/バージョンタグ.
+# 📌 :pushpin:------------------Pinning dependencies to specific versions.
+# 🚀 :rocket:-------------------Deploying stuff.
+# > Packge/Util
+# ➕ :heavy_plus_sign:----------依存関係追加.
+# ➖ :heavy_minus_sign:---------依存関係削除.
+# ⬇️ :arrow_down:----------------依存関係ダウングレード.
+# ⬆️ :arrow_up:------------------依存関係アップグレード.
+# 👷 :construction_worker:------CIビルドシステム追加.
+# 💚 :green_heart:--------------CIビルド修正.
+# 🐳 :whale:--------------------Work about Docker.
+# 👽 :alien:--------------------Updating code due to external API changes.
+# 📦 :package:------------------バイナリ/パッケージ変更.
 # 
 # This list is based on gitmoji(https://gitmoji.carloscuesta.me)
 
